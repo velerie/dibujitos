@@ -1,0 +1,22 @@
+.body_background {
+	background-image: url("La\ roca\ chikito.jpg");
+	background-position: center;
+	background-size: auto;
+  }
+  h1
+  {
+	  color: rgb(62, 182, 152); 
+	  font-size: 40px;
+  }
+  
+  #myCanvas
+  {
+	  border-width:10px;
+	  background-color: rgb(189, 170, 244); 
+	  border-style:ridge;
+  }
+  span
+  {
+	  font-size: 20px;
+  }
+  
